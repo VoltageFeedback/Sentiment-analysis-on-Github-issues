@@ -3,12 +3,13 @@
 ## Brief instruction:
 This work is to statistically analyze emotions expressed in issue comments of top starred GitHub repos and their relationship with time of the day, date of the week, time span between created and closed dates.
 
+### Testing data:
+- Textual issues of 250 top projects, from 2017.1 to 2019.4.
+- 1064458 issue comments in total.
 ### Training and validation data: 
 - The sentiment140 dataset from Stanford University.
-
 ### NLP process:
 - Lexical preprocessing + TF-IDF feature + logistic regression model.
-
 ### Tech involved:
 - Pyspark, Panda, Scipy, GitHub REST API, Google BigQuery.
 
