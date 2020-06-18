@@ -15,7 +15,8 @@ This work is to statistically analyze emotions expressed in issue comments of to
 - Mann-Whitney U test 
 - Spearman correlation test
 ### Programming tech:
-- Pyspark, Panda, Scipy, GitHub REST API, Google BigQuery.
+- Python: Pyspark, Panda, Scipy
+- GitHub REST API, Google BigQuery.
 
 ### Detailed work illustration can be found in 'report_revised' pdf file.
 Thanks for your appreciation! :+1:
