@@ -10,7 +10,11 @@ This work is to statistically analyze emotions expressed in issue comments of to
 - The sentiment140 dataset from Stanford University.
 ### NLP process:
 - Lexical preprocessing + TF-IDF feature + logistic regression model.
-### Tech involved:
+### Stats tool:
+- Box plot
+- Mann-Whitney U test 
+- Spearman correlation test
+### Programming tech:
 - Pyspark, Panda, Scipy, GitHub REST API, Google BigQuery.
 
 ### Detailed work illustration can be found in 'report_revised' pdf file.
