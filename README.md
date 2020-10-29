@@ -1,10 +1,10 @@
 # Sentiment-analysis-on-Github-issues
 
 ## Brief instruction:
-This work is to statistically analyze emotions expressed in issue comments of top 500 starred GitHub repos and their relationship with time of the day, date of the week, time span between created and closed dates.
+This work is to statistically analyze emotions expressed in issue comments of top starred GitHub repos and their relationship with time of the day, date of the week, time span between created and closed dates.
 
 ### Testing data:
-- Textual issues of 250 top projects, from 2017.1 to 2019.4.
+- Textual issues of top 250 most starred projects, from 2017.1 to 2019.4.
 - 1064458 issue comments in total.
 ### Training and validation data: 
 - The sentiment140 dataset from Stanford University.
