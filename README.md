@@ -18,5 +18,5 @@ This work is to statistically analyze emotions expressed in issue comments of to
 - Python: Pyspark, Panda, Scipy
 - GitHub REST API, Google BigQuery.
 
-### Detailed work illustration can be found in 'report_revised' pdf file.
+### Detailed work illustration can be found in 'report_final' pdf file.
 Thanks for your appreciation! :+1:
